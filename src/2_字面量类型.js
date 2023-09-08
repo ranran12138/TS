@@ -56,3 +56,5 @@ i = {
     name: '刘浩存',
     gender: genDer.nan
 };
+var j;
+j = 3;
